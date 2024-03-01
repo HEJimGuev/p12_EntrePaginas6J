@@ -22,4 +22,6 @@ samples, guidance on mobile development, and a full API reference.
 - Resultados:
 - ![image](https://github.com/HEJimGuev/p12_EntrePaginas6J/assets/143548108/99a1c62c-d3a9-4b79-bf2e-ff41b142fc3a)
 - ![image](https://github.com/HEJimGuev/p12_EntrePaginas6J/assets/143548108/117cb04a-615c-4634-aede-362cb41c8143)
+- Link de referencia:
+- https://docs.google.com/document/u/0/d/1jTloUy06IgWM7lw4rxjJRm-U0HS4YiTs9KUiXsZLa6U/edit?usp=classroom_web
 
